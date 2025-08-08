@@ -15,5 +15,6 @@ Repositório feito durante a aula.
     <h1>Olá, mundo</h1>
     <p>Parágrafo em HTML</p>
     <hr>
+    <img src="umaruchan.jpg" alt="logo" width="500" heigth="500">
 </body>
 </html>
