@@ -21,7 +21,7 @@ Repositório feito durante a aula.
         <ul>
             <li>Minecraft</li>
             <li>We Happy Few</li>
-            <li>Five Nights At FGreddy's</li>
+            <li>Five Nights At Freddy's</li>
             <li>Infinity Nikki</li>
             <li>The Sims 4</li>
         </ul>
